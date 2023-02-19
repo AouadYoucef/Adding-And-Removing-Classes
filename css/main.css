@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  margin: 50px auto;
+  width: 800px;
+}
+
+.container input {
+  padding: 15px 10px;
+  width: 350px;
+  border: 1px solid #eee;
+  outline: none;
+  
+}
+
+.container .config-class {
+  margin-bottom: 10px;
+}
+
+.container #current {
+  padding: 20px 0;
+  background-color: #f2f3fe;
+  width: 703px;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+
+.container #current-Clist {
+  padding: 15px 10px;
+  background-color: #f2f3fe;
+  width: 703px;
+  font-weight: bold;
+  height: 100px;
+}
+
+.span-container {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.span-container span { 
+  color: white;
+  padding: 10px;
+  background-color: #f84b37;
+  border-radius: 6px;
+}
+
+.span-container #no-class {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+
+
