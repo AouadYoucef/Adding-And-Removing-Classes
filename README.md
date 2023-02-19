@@ -1,5 +1,5 @@
 # Adding Classes to an Element
 
-[Live Demo]()
+## [Live Demo]()
 
-![]()
+![](assets/demo.gif)
